@@ -351,7 +351,7 @@ function initThree() {
 
   const loader = new GLTFLoader()
   loader.load(
-    '/orange.glb',
+    `${import.meta.env.BASE_URL}orange.glb`,
     (gltf) => {
       model = gltf.scene
       model.traverse((child) => {
